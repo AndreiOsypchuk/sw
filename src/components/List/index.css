@@ -1,0 +1,46 @@
+.ls-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 4;
+  padding: 50px;
+  margin-left: 250px;
+}
+
+.ls {
+  width: 100%;
+}
+
+.select {
+  color: black !important;
+  padding: 7px;
+  border-radius: 6px;
+  width: 100px;
+  margin-left: 10px;
+}
+.inputs {
+  color: rgb(228, 220, 220);
+
+  padding-left: 10px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.search {
+  padding: 9px;
+  color: black;
+  border: none;
+  width: 300px;
+  border-radius: 6px;
+  background-color: rgb(29, 28, 28);
+  color: rgb(228, 220, 220);
+}
+
+.filters {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 400px;
+}

@@ -1,0 +1,31 @@
+.expanded {
+  padding-bottom: 40px;
+}
+
+.char-item {
+  color: rgb(228, 220, 220);
+  margin: 10px;
+  width: 100%;
+  min-height: 40px;
+  background-color: rgb(29, 28, 28);
+  border-radius: 6px;
+}
+
+.char-title:hover {
+  background-color: rgb(222, 245, 13);
+  color: black;
+  border-radius: 6px;
+}
+
+.char-title {
+  padding: 10px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.details {
+  margin-top: 20px;
+  background-color: rgb(29, 28, 28);
+
+  padding-left: 10px;
+  line-height: 1.5rem;
+}
